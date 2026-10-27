@@ -1,9 +1,5 @@
 <template>
-  <button class="btn">Click me</button>
+  <button class="bg-[#ffa279] rounded-xl py-3.5 px-10 text-white font-bold tracking-tighter">
+    Почати роботу
+  </button>
 </template>
-
-<style scoped>
-.btn {
-  color: red;
-}
-</style>
